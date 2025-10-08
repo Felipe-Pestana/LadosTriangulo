@@ -26,3 +26,6 @@ else
     Console.WriteLine("Os valores informados não formam um triângulo.");
     return;
 }
+
+Console.WriteLine("Pressione qualquer tecla para sair...");
+Console.ReadKey();
